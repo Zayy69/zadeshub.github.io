@@ -1,6 +1,6 @@
 <html>
   <header>
-    <title>Zaids Domain</title>
+    <header>Zaids Domain</header>
   </header>
   <body>
     <h1> WELCOME </h1>
